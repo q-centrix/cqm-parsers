@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'mustache'
   s.add_dependency 'erubis', '~> 2.7.0'
-  s.add_dependency 'mongoid', '~> 6.4.2'
+  s.add_dependency 'mongoid'
   s.add_dependency 'mongoid-tree', '~> 2.1.1'
   s.add_dependency 'activesupport', '~> 5.0'
 
